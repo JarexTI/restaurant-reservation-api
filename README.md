@@ -33,3 +33,11 @@ make start
 ```bash
 make down
 ```
+
+🔗 Эндпоинты
+---
+После запуска доступна документация по адресу:
+
+Swagger UI: http://localhost:8000/docs
+
+ReDoc: http://localhost:8000/redoc
